@@ -1,0 +1,3 @@
+```pascal
+Showmessage(Send('hello'));
+```
